@@ -1,0 +1,5 @@
+
+	File Name : TaleOfTwoCities.txt
+	Number of space characters : 126,279
+	Total number of characters : 774,211
+	Percentage of space in file : 16.31 %

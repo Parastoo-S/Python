@@ -1,0 +1,15 @@
+
+	File Name : LesMiserables.txt
+	Number of space characters : 521,074
+	Total number of characters : 3,233,570
+	Percentage of space in file : 16.11 %
+
+	File Name : TaleOfTwoCities.txt
+	Number of space characters : 126,279
+	Total number of characters : 774,211
+	Percentage of space in file : 16.31 %
+
+	File Name : WarAndPeace.txt
+	Number of space characters : 514,413
+	Total number of characters : 3,220,985
+	Percentage of space in file : 15.97 %

@@ -1,0 +1,5 @@
+
+	File Name : LesMiserables.txt
+	Number of space characters : 521,074
+	Total number of characters : 3,233,570
+	Percentage of space in file : 16.11 %

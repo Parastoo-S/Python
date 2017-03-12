@@ -1,0 +1,5 @@
+
+	File Name : WarAndPeace.txt
+	Number of space characters : 514,413
+	Total number of characters : 3,220,985
+	Percentage of space in file : 15.97 %

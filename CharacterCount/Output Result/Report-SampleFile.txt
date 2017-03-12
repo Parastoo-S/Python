@@ -1,0 +1,5 @@
+
+	File Name : SampleFile.txt
+	Number of space characters : 214
+	Total number of characters : 1,293
+	Percentage of space in file : 16.55 %
